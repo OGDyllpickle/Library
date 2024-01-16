@@ -1,0 +1,1 @@
+This file is to strip down all to lowercase letters and no spaces
